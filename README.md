@@ -119,7 +119,7 @@ Dado a necessidade de visualização dos imóveis foi elaborado um painel onde d
 
 ### H2 - Imóveis com data de construção menor que 1955 são em média mais baratos ####
 
-Inserir gráfico
+![h2](https://user-images.githubusercontent.com/92406177/141334487-236e53ec-8e39-455d-9f41-1f08680b2b34.jpg)
 
 - [x]  Resultado: Falso
 
