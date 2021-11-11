@@ -131,6 +131,9 @@ Dado a necessidade de visualização dos imóveis foi elaborado um painel onde d
 
 ### H4 - Houve crescimento do preço médio dos imóveis YoY ( Year over Year )###
 
+
+![h4](https://user-images.githubusercontent.com/92406177/141335286-ff1408ea-a0fc-4522-9c5a-3d59c93904b8.jpg)
+
 - [x]  Resultado: Falsa 
 
 ### H5 - Imóveis com mais quartos são em média mais caros ###
