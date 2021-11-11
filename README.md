@@ -113,7 +113,7 @@ Dado a necessidade de visualização dos imóveis foi elaborado um painel onde d
 
 ### H1 -Imóveis com vista para a água são em média mais caros ###
 
-Inserir gráfico
+![h1](https://user-images.githubusercontent.com/92406177/141334221-e1839935-e794-477f-8e97-369190162d2e.jpg)
 
 - [x] Resultado: Verdadeiro
 
