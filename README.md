@@ -1,4 +1,5 @@
 # Insights-Project
+![banner](https://user-images.githubusercontent.com/92406177/141321050-7c0cca61-292e-43c4-aa64-955f86a4fa28.jpg)
 # Projeto de Insights: House Rocket #
    O objetivo desse projeto é fornecer para o time de negócios, uma seleção de imóveis, dadas as melhores condições, para que a empresa possa realizar suas operações de compra e venda. Os insights fornecidos neste projeto visam demonstrar um valor de lucro máximo que a empresa pode obter dado as condições que a mesma pode definir num segundo momento.
 ## 1. Questão de negócio: ##
