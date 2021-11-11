@@ -28,6 +28,7 @@ Os dados foram extraídos do link abaixo, onde constam todos os imóveis em port
 https://www.kaggle.com/harlfoxem/housesalesprediction
 
 •	Os dados são de 05/2014 até 05/2015.
+
 •	A definição para cada um dos atributos encontra-se abaixo:
 
 Dicionário de Dados
