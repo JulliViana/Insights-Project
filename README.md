@@ -82,23 +82,25 @@ Além do dataset acima citado, foi utilizado um arquivo geojson para a criação
 |     sqft_living15    |     6210.00       |     399.00       |     1988.35      |     1840.00      |     685.68       |
 |     sqft_lot15       |     871200.00     |     651.00       |     12786.34     |     7620.00      |     27375.41     |
 
-•	Novas features:
 
-o	constrution: ano de construção maior ou menor que 1955
+Novas features:
 
-o	basement: imóvel com ou sem porão
+•	constrution: ano de construção maior ou menor que 1955
 
-o	season: estação do ano da venda do imóvel
+•	basement: imóvel com ou sem porão
 
-o	waterfront: vista ou não para água
+•	season: estação do ano da venda do imóvel
 
-o	renovated: imóvel foi ou não reformado
+•	waterfront: vista ou não para água
 
-o	describe_condition: descrição da condição do imóvel, baseado no classificação assumida no item 1.4 deste ReadMe
+•	renovated: imóvel foi ou não reformado
 
-o	status: indica se o imóvel deve ou não ser comprado
+•	describe_condition: descrição da condição do imóvel, baseado no classificação assumida no item 1.4 deste ReadMe
+
+•	status: indica se o imóvel deve ou não ser comprado
 
 ### 3.4 Aplicativo em Nuvem ###
+
 Dado a necessidade de visualização dos imóveis foi elaborado um painel onde deve conter:
 
 •	Quais propriedades a empresa deve comprar.
@@ -111,32 +113,35 @@ Dado a necessidade de visualização dos imóveis foi elaborado um painel onde d
 
 ## 4.	Principais Insights ##
 
-### H1 -Imóveis com vista para a água são em média mais caros ###
+### _H1 -Imóveis com vista para a água são em média mais caros ###
 
 ![h1](https://user-images.githubusercontent.com/92406177/141334221-e1839935-e794-477f-8e97-369190162d2e.jpg)
 
 - [x] Resultado: Verdadeiro
 
-### H2 - Imóveis com data de construção menor que 1955 são em média mais baratos ####
+### _H2 - Imóveis com data de construção menor que 1955 são em média mais baratos ####
 
 ![h2](https://user-images.githubusercontent.com/92406177/141334487-236e53ec-8e39-455d-9f41-1f08680b2b34.jpg)
 
 - [x]  Resultado: Falso
 
-### H3 - Imóveis sem porão são maiores do que imóveis com porão ###
+### _H3 - Imóveis sem porão são maiores do que imóveis com porão ###
 
 ![h3](https://user-images.githubusercontent.com/92406177/141334886-e25ff387-931d-4264-8127-0c07be5dcd38.jpg)
 
 - [x]  Resultado: Verdadeira
 
-### H4 - Houve crescimento do preço médio dos imóveis YoY ( Year over Year )###
+### _H4 - Houve crescimento do preço médio dos imóveis YoY ( Year over Year )###
 
 
 ![h4](https://user-images.githubusercontent.com/92406177/141335286-ff1408ea-a0fc-4522-9c5a-3d59c93904b8.jpg)
 
 - [x]  Resultado: Falsa 
 
-### H5 - Imóveis com mais quartos são em média mais caros ###
+### _H5 - Imóveis com mais quartos são em média mais caros ###
+
+
+![h5](https://user-images.githubusercontent.com/92406177/141335841-1a91a0a2-9fa4-4e33-a826-d843da3213f6.jpg)
 
 - [x]  Resultado: Verdadeiro
 
