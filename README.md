@@ -131,9 +131,9 @@ Os insights podem ajudar o time de negócios na tomada de decisão, insights val
 
 ### H3 - Imóveis sem porão são maiores do que imóveis com porão ###
 
-![h3](https://user-images.githubusercontent.com/92406177/141334886-e25ff387-931d-4264-8127-0c07be5dcd38.jpg)
-
 - [x]  Resultado: Verdadeira
+
+![h3](https://user-images.githubusercontent.com/92406177/142739991-846c3c95-3c3f-49a1-bc53-23b486256171.jpg)
 
 ### H4 - Houve crescimento do preço médio dos imóveis YoY ( Year over Year )###
 
