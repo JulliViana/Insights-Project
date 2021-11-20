@@ -113,32 +113,34 @@ Dado a necessidade de visualização dos imóveis foi elaborado um painel onde d
 
 ## 4.	Principais Insights ##
 
-### _H1 -Imóveis com vista para a água são em média mais caros ###
+Os insights podem ajudar o time de negócios na tomada de decisão, insights valiosos podem fazer a diferença entre fazer um bom negócio ou não. Diante disso alguns insights econtrados a partir da analise e exploração dos dados foram:
+
+### H1 -Imóveis com vista para a água são em média mais caros ###
 
 ![h1](https://user-images.githubusercontent.com/92406177/141334221-e1839935-e794-477f-8e97-369190162d2e.jpg)
 
 - [x] Resultado: Verdadeiro
 
-### _H2 - Imóveis com data de construção menor que 1955 são em média mais baratos ####
+### H2 - Imóveis com data de construção menor que 1955 são em média mais baratos ####
 
 ![h2](https://user-images.githubusercontent.com/92406177/141334487-236e53ec-8e39-455d-9f41-1f08680b2b34.jpg)
 
 - [x]  Resultado: Falso
 
-### _H3 - Imóveis sem porão são maiores do que imóveis com porão ###
+### H3 - Imóveis sem porão são maiores do que imóveis com porão ###
 
 ![h3](https://user-images.githubusercontent.com/92406177/141334886-e25ff387-931d-4264-8127-0c07be5dcd38.jpg)
 
 - [x]  Resultado: Verdadeira
 
-### _H4 - Houve crescimento do preço médio dos imóveis YoY ( Year over Year )###
+### H4 - Houve crescimento do preço médio dos imóveis YoY ( Year over Year )###
 
 
 ![h4](https://user-images.githubusercontent.com/92406177/141335286-ff1408ea-a0fc-4522-9c5a-3d59c93904b8.jpg)
 
 - [x]  Resultado: Falsa 
 
-### _H5 - Imóveis com mais quartos são em média mais caros ###
+### H5 - Imóveis com mais quartos são em média mais caros ###
 
 
 ![h5](https://user-images.githubusercontent.com/92406177/141335841-1a91a0a2-9fa4-4e33-a826-d843da3213f6.jpg)
@@ -153,7 +155,13 @@ O dashboard construído no streamlit com os resultados e as análises pode ser c
 
 ### 5.2	Retorno Financeiro ###
 
-Após toda a exploração e análise feita e seguindo as regras de negócio de venda definidas, os resultados financeiros foram os seguintes:
+O objetivo desse projeto era fornecer uma lista de imóveis com opções de compra e venda, e consequentemente o lucro máximo que poderá ser obtido se todas as transações ocorrerem. Ou seja, o resultado financeiro apresentado abaixo representa o lucro máximo que pode ser obtido utilizando as recomendações informadas.
+
+| Número de imóveis | Custo total          | Receita de vendas    | Lucro (profit)       |
+|-------------------|----------------------|----------------------|----------------------|
+| 10.505            | US$ 4.079.586.744.00 | US$ 5.266.225.532.20 | US$ 1.186.638.788.20 |
+
+
 
 
 
