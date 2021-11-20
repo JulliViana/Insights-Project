@@ -127,6 +127,7 @@ Os insights podem ajudar o time de negócios na tomada de decisão, insights val
 
 - [x]  Resultado: Falso
 
+![h2](https://user-images.githubusercontent.com/92406177/142739911-269058a1-2cc4-442d-a295-00ce98da497e.jpg)
 
 ### H3 - Imóveis sem porão são maiores do que imóveis com porão ###
 
