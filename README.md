@@ -143,24 +143,27 @@ Os insights podem ajudar o time de negócios na tomada de decisão, insights val
 
 ### H5 - Imóveis com mais quartos são em média mais caros ###
 
-
-![h5](https://user-images.githubusercontent.com/92406177/141335841-1a91a0a2-9fa4-4e33-a826-d843da3213f6.jpg)
-
 - [x]  Resultado: Verdadeiro
 
-## 5.	Principais Resultados: ## 
+![h5](https://user-images.githubusercontent.com/92406177/142740161-4a627267-ac7a-4621-ad5e-7a57e2db25c0.jpg)
 
-### 5.1	Dashboard de Visualização ###
-
-O dashboard construído no streamlit com os resultados e as análises pode ser conferido através do link: 
-
-### 5.2	Retorno Financeiro ###
+## 5.	Resultados Financeiros: ## 
 
 O objetivo desse projeto era fornecer uma lista de imóveis com opções de compra e venda, e consequentemente o lucro máximo que poderá ser obtido se todas as transações ocorrerem. Ou seja, o resultado financeiro apresentado abaixo representa o lucro máximo que pode ser obtido utilizando as recomendações informadas.
 
 | Número de imóveis | Custo total          | Receita de vendas    | Lucro (profit)       |
 |-------------------|----------------------|----------------------|----------------------|
 | 10.505            | US$ 4.079.586.744.00 | US$ 5.266.225.532.20 | US$ 1.186.638.788.20 |
+
+
+## 6. Conclusão:
+
+## 7. Referências e Tecnologias:
+
+* Python from Zero to DS lessons on [Youtube](https://www.youtube.com/watch?v=1xXK_z9M6yk&list=PLZlkyCIi8bMprZgBsFopRQMG_Kj1IA1WG&ab_channel=SejaUmDataScientist)
+* Blog [Seja um Data Scientist](https://sejaumdatascientist.com/os-5-projetos-de-data-science-que-fara-o-recrutador-olhar-para-voce/)
+* Dataset House Sales in King County (USA) from [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction)
+
 
 
 
