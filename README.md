@@ -137,10 +137,9 @@ Os insights podem ajudar o time de negócios na tomada de decisão, insights val
 
 ### H4 - Houve crescimento do preço médio dos imóveis YoY ( Year over Year )###
 
-
-![h4](https://user-images.githubusercontent.com/92406177/141335286-ff1408ea-a0fc-4522-9c5a-3d59c93904b8.jpg)
-
 - [x]  Resultado: Falsa 
+
+![h4](https://user-images.githubusercontent.com/92406177/142740026-4b49e87c-d3c1-44ee-b813-0006b7fc04a3.jpg)
 
 ### H5 - Imóveis com mais quartos são em média mais caros ###
 
