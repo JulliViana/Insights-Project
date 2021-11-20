@@ -24,8 +24,7 @@ Entretanto, as casas possuem muitos atributos que as tornam mais ou menos atrati
 
 ### 3.1 Coleta de Dados ###
     
-Os dados foram extraídos do link abaixo, onde constam todos os imóveis em portfólio e disponíveis para a empresa.
-https://www.kaggle.com/harlfoxem/housesalesprediction
+Os dados foram extraídos do link abaixo, onde constam todos os imóveis em portfólio e disponíveis para a empresa [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction)
 
 •	Os dados são de 05/2014 até 05/2015.
 
@@ -160,7 +159,6 @@ O objetivo desse projeto era fornecer uma lista de imóveis com opções de comp
 
 ## 7. Referências:
 
-* Python from Zero to DS lessons on [Youtube](https://www.youtube.com/watch?v=1xXK_z9M6yk&list=PLZlkyCIi8bMprZgBsFopRQMG_Kj1IA1WG&ab_channel=SejaUmDataScientist)
 * Blog [Seja um Data Scientist](https://sejaumdatascientist.com/os-5-projetos-de-data-science-que-fara-o-recrutador-olhar-para-voce/)
 * Dataset House Sales in King County (USA) from [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction)
 
