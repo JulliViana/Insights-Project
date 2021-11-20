@@ -117,15 +117,16 @@ Os insights podem ajudar o time de negócios na tomada de decisão, insights val
 
 ### H1 -Imóveis com vista para a água são em média mais caros ###
 
-![h1](https://user-images.githubusercontent.com/92406177/141334221-e1839935-e794-477f-8e97-369190162d2e.jpg)
-
 - [x] Resultado: Verdadeiro
+
+![h1](https://user-images.githubusercontent.com/92406177/142739685-f347b739-64b1-425d-b02c-b54e71a6a1bb.jpg)
+
+
 
 ### H2 - Imóveis com data de construção menor que 1955 são em média mais baratos ####
 
-![h2](https://user-images.githubusercontent.com/92406177/141334487-236e53ec-8e39-455d-9f41-1f08680b2b34.jpg)
-
 - [x]  Resultado: Falso
+
 
 ### H3 - Imóveis sem porão são maiores do que imóveis com porão ###
 
